@@ -1,0 +1,3145 @@
+{
+ "1rgs/nanocode": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "1rgs/nanocode",
+  "parent": null
+ },
+ "2FastLabs/agent-squad": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "2FastLabs/agent-squad",
+  "parent": null
+ },
+ "ANative-Lab/EvoAgentX": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ANative-Lab/EvoAgentX",
+  "parent": null
+ },
+ "AgentOps-AI/agentops": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "AgentOps-AI/agentops",
+  "parent": null
+ },
+ "Agenta-AI/agenta": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Agenta-AI/agenta",
+  "parent": null
+ },
+ "Aider-AI/aider": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Aider-AI/aider",
+  "parent": null
+ },
+ "Alibaba-NLP/DeepResearch": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Alibaba-NLP/DeepResearch",
+  "parent": null
+ },
+ "AntonOsika/gpt-engineer": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "AntonOsika/gpt-engineer",
+  "parent": null
+ },
+ "Arize-ai/openinference": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Arize-ai/openinference",
+  "parent": null
+ },
+ "Arize-ai/phoenix": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Arize-ai/phoenix",
+  "parent": null
+ },
+ "AutoJunjie/awesome-agent-harness": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "AutoJunjie/awesome-agent-harness",
+  "parent": null
+ },
+ "BerriAI/litellm": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "BerriAI/litellm",
+  "parent": null
+ },
+ "BitterSecurity/Decepticon": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "BitterSecurity/Decepticon",
+  "parent": null
+ },
+ "BloopAI/vibe-kanban": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "BloopAI/vibe-kanban",
+  "parent": null
+ },
+ "ChromeDevTools/chrome-devtools-mcp": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ChromeDevTools/chrome-devtools-mcp",
+  "parent": null
+ },
+ "ComposioHQ/awesome-claude-skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ComposioHQ/awesome-claude-skills",
+  "parent": null
+ },
+ "ComposioHQ/composio": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ComposioHQ/composio",
+  "parent": null
+ },
+ "CopilotKit/CopilotKit": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "CopilotKit/CopilotKit",
+  "parent": null
+ },
+ "DeusData/codebase-memory-mcp": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "DeusData/codebase-memory-mcp",
+  "parent": null
+ },
+ "Eladlev/AutoPrompt": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Eladlev/AutoPrompt",
+  "parent": null
+ },
+ "EverMind-AI/EverOS": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "EverMind-AI/EverOS",
+  "parent": null
+ },
+ "EvoMap/evolver": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "EvoMap/evolver",
+  "parent": null
+ },
+ "FailproofAI/failproofai": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "FailproofAI/failproofai",
+  "parent": null
+ },
+ "Fission-AI/OpenSpec": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Fission-AI/OpenSpec",
+  "parent": null
+ },
+ "FlowiseAI/Flowise": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "FlowiseAI/Flowise",
+  "parent": null
+ },
+ "Fosowl/agenticSeek": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Fosowl/agenticSeek",
+  "parent": null
+ },
+ "FoundationAgents/MetaGPT": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "FoundationAgents/MetaGPT",
+  "parent": null
+ },
+ "FoundationAgents/OpenManus": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "FoundationAgents/OpenManus",
+  "parent": null
+ },
+ "Future-House/aviary": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Future-House/aviary",
+  "parent": null
+ },
+ "Future-House/paper-qa": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Future-House/paper-qa",
+  "parent": null
+ },
+ "Future-House/robin": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Future-House/robin",
+  "parent": null
+ },
+ "GLips/Figma-Context-MCP": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "GLips/Figma-Context-MCP",
+  "parent": null
+ },
+ "Giskard-AI/giskard-oss": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Giskard-AI/giskard-oss",
+  "parent": null
+ },
+ "Graphify-Labs/graphify": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Graphify-Labs/graphify",
+  "parent": null
+ },
+ "GreyDGL/PentestGPT": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "GreyDGL/PentestGPT",
+  "parent": null
+ },
+ "HKUDS/AI-Researcher": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "HKUDS/AI-Researcher",
+  "parent": null
+ },
+ "HKUDS/AutoAgent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "HKUDS/AutoAgent",
+  "parent": null
+ },
+ "HKUDS/DeepCode": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "HKUDS/DeepCode",
+  "parent": null
+ },
+ "HKUDS/LightRAG": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "HKUDS/LightRAG",
+  "parent": null
+ },
+ "HKUDS/nanobot": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "HKUDS/nanobot",
+  "parent": null
+ },
+ "Helicone/helicone": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Helicone/helicone",
+  "parent": null
+ },
+ "Human-Agent-Society/reef": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Human-Agent-Society/reef",
+  "parent": null
+ },
+ "IBM/mcp-context-forge": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "IBM/mcp-context-forge",
+  "parent": null
+ },
+ "Imbad0202/academic-research-skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Imbad0202/academic-research-skills",
+  "parent": null
+ },
+ "JuliusBrussee/caveman": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "JuliusBrussee/caveman",
+  "parent": null
+ },
+ "KeygraphHQ/shannon": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "KeygraphHQ/shannon",
+  "parent": null
+ },
+ "Kilo-Org/kilocode": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Kilo-Org/kilocode",
+  "parent": null
+ },
+ "LearningCircuit/local-deep-research": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "LearningCircuit/local-deep-research",
+  "parent": null
+ },
+ "MCP-UI-Org/mcp-ui": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "MCP-UI-Org/mcp-ui",
+  "parent": null
+ },
+ "Maciek-roboblog/Claude-Code-Usage-Monitor": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Maciek-roboblog/Claude-Code-Usage-Monitor",
+  "parent": null
+ },
+ "MaximeRobeyns/self_improving_coding_agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "MaximeRobeyns/self_improving_coding_agent",
+  "parent": null
+ },
+ "Meirtz/Awesome-Context-Engineering": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Meirtz/Awesome-Context-Engineering",
+  "parent": null
+ },
+ "MemPalace/mempalace": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "MemPalace/mempalace",
+  "parent": null
+ },
+ "MemTensor/MemOS": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "MemTensor/MemOS",
+  "parent": null
+ },
+ "MemoriLabs/Memori": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "MemoriLabs/Memori",
+  "parent": null
+ },
+ "NVIDIA-NeMo/Guardrails": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "NVIDIA-NeMo/Guardrails",
+  "parent": null
+ },
+ "NVIDIA/OpenShell": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ai-openshell/openshell",
+  "parent": null
+ },
+ "NVIDIA/SkillEvaluator": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "NVIDIA/SkillEvaluator",
+  "parent": null
+ },
+ "NVIDIA/SkillSpector": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "NVIDIA/SkillSpector",
+  "parent": null
+ },
+ "NVIDIA/garak": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "NVIDIA/garak",
+  "parent": null
+ },
+ "NevaMind-AI/memU": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "NevaMind-AI/memU",
+  "parent": null
+ },
+ "NirDiamant/GenAI_Agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "NirDiamant/GenAI_Agents",
+  "parent": null
+ },
+ "NirDiamant/agents-towards-production": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "NirDiamant/agents-towards-production",
+  "parent": null
+ },
+ "NousResearch/hermes-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "NousResearch/hermes-agent",
+  "parent": null
+ },
+ "OSU-NLP-Group/HippoRAG": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "OSU-NLP-Group/HippoRAG",
+  "parent": null
+ },
+ "OpenBMB/ChatDev": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "OpenBMB/ChatDev",
+  "parent": null
+ },
+ "OpenBMB/ToolBench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "OpenBMB/ToolBench",
+  "parent": null
+ },
+ "OpenHands/OpenHands": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "OpenHands/OpenHands",
+  "parent": null
+ },
+ "Orchestra-Research/AI-Research-SKILLs": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Orchestra-Research/AI-Research-SKILLs",
+  "parent": null
+ },
+ "OthersideAI/self-operating-computer": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "OthersideAI/self-operating-computer",
+  "parent": null
+ },
+ "Picrew/awesome-agent-harness": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Picrew/awesome-agent-harness",
+  "parent": null
+ },
+ "Portkey-AI/gateway": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Portkey-AI/gateway",
+  "parent": null
+ },
+ "PrefectHQ/fastmcp": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "PrefectHQ/fastmcp",
+  "parent": null
+ },
+ "PrimeIntellect-ai/prime-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "PrimeIntellect-ai/prime-agent",
+  "parent": null
+ },
+ "Q00/ouroboros": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Q00/ouroboros",
+  "parent": null
+ },
+ "QwenLM/qwen-code": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "QwenLM/qwen-code",
+  "parent": null
+ },
+ "RooCodeInc/Roo-Code": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "RooCodeInc/Roo-Code",
+  "parent": null
+ },
+ "RyanAlberts/best-of-Agent-Harnesses": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "RyanAlberts/best-of-Agent-Harnesses",
+  "parent": null
+ },
+ "SWE-agent/SWE-ReX": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SWE-agent/SWE-ReX",
+  "parent": null
+ },
+ "SWE-agent/SWE-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SWE-agent/SWE-agent",
+  "parent": null
+ },
+ "SWE-agent/mini-swe-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SWE-agent/mini-swe-agent",
+  "parent": null
+ },
+ "SWE-bench/SWE-bench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SWE-bench/SWE-bench",
+  "parent": null
+ },
+ "SWE-bench/SWE-smith": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SWE-bench/SWE-smith",
+  "parent": null
+ },
+ "SakanaAI/AI-Scientist": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SakanaAI/AI-Scientist",
+  "parent": null
+ },
+ "SakanaAI/AI-Scientist-v2": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SakanaAI/AI-Scientist-v2",
+  "parent": null
+ },
+ "SakanaAI/ShinkaEvolve": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SakanaAI/ShinkaEvolve",
+  "parent": null
+ },
+ "SamuelSchmidgall/AgentLaboratory": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SamuelSchmidgall/AgentLaboratory",
+  "parent": null
+ },
+ "ServiceNow/BrowserGym": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ServiceNow/BrowserGym",
+  "parent": null
+ },
+ "ShengranHu/ADAS": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ShengranHu/ADAS",
+  "parent": null
+ },
+ "ShishirPatil/gorilla": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ShishirPatil/gorilla",
+  "parent": null
+ },
+ "Shubhamsaboo/awesome-llm-apps": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Shubhamsaboo/awesome-llm-apps",
+  "parent": null
+ },
+ "Significant-Gravitas/AutoGPT": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Significant-Gravitas/AutoGPT",
+  "parent": null
+ },
+ "Skyvern-AI/skyvern": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Skyvern-AI/skyvern",
+  "parent": null
+ },
+ "SylphAI-Inc/AdalFlow": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "SylphAI-Inc/AdalFlow",
+  "parent": null
+ },
+ "THUDM/AgentBench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "THUDM/AgentBench",
+  "parent": null
+ },
+ "Tencent/AI-Infra-Guard": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Tencent/AI-Infra-Guard",
+  "parent": null
+ },
+ "TencentCloud/CubeSandbox": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "TencentCloud/CubeSandbox",
+  "parent": null
+ },
+ "TencentCloud/TencentDB-Agent-Memory": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "TencentCloud/TencentDB-Agent-Memory",
+  "parent": null
+ },
+ "The-Pocket/PocketFlow": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "The-Pocket/PocketFlow",
+  "parent": null
+ },
+ "TheAgentCompany/TheAgentCompany": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "TheAgentCompany/TheAgentCompany",
+  "parent": null
+ },
+ "TsinghuaC3I/Awesome-Memory-for-Agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "TsinghuaC3I/Awesome-Memory-for-Agents",
+  "parent": null
+ },
+ "UKGovernmentBEIS/control-arena": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "UKGovernmentBEIS/control-arena",
+  "parent": null
+ },
+ "UKGovernmentBEIS/inspect_ai": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "UKGovernmentBEIS/inspect_ai",
+  "parent": null
+ },
+ "UKGovernmentBEIS/inspect_evals": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "UKGovernmentBEIS/inspect_evals",
+  "parent": null
+ },
+ "VoltAgent/awesome-agent-skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "VoltAgent/awesome-agent-skills",
+  "parent": null
+ },
+ "VoltAgent/awesome-claude-code-subagents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "VoltAgent/awesome-claude-code-subagents",
+  "parent": null
+ },
+ "VoltAgent/awesome-codex-subagents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "VoltAgent/awesome-codex-subagents",
+  "parent": null
+ },
+ "VoltAgent/awesome-openclaw-skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "VoltAgent/awesome-openclaw-skills",
+  "parent": null
+ },
+ "WecoAI/aideml": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "WecoAI/aideml",
+  "parent": null
+ },
+ "WenyuChiou/awesome-agentic-ai-zh": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "WenyuChiou/awesome-agentic-ai-zh",
+  "parent": null
+ },
+ "WooooDyy/LLM-Agent-Paper-List": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "WooooDyy/LLM-Agent-Paper-List",
+  "parent": null
+ },
+ "X-PLUG/MobileAgent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "X-PLUG/MobileAgent",
+  "parent": null
+ },
+ "Yeachan-Heo/oh-my-claudecode": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "Yeachan-Heo/oh-my-claudecode",
+  "parent": null
+ },
+ "YennNing/Awesome-Code-as-Agent-Harness-Papers": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "YennNing/Awesome-Code-as-Agent-Harness-Papers",
+  "parent": null
+ },
+ "a2aproject/A2A": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "a2aproject/A2A",
+  "parent": null
+ },
+ "a2aproject/a2a-python": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "a2aproject/a2a-python",
+  "parent": null
+ },
+ "aaif-goose/goose": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "aaif-goose/goose",
+  "parent": null
+ },
+ "ace-agent/ace": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ace-agent/ace",
+  "parent": null
+ },
+ "addyosmani/agent-skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "addyosmani/agent-skills",
+  "parent": null
+ },
+ "affaan-m/ECC": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "affaan-m/ECC",
+  "parent": null
+ },
+ "ag2ai/ag2": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ag2ai/ag2",
+  "parent": null
+ },
+ "agent-infra/sandbox": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "agent-infra/sandbox",
+  "parent": null
+ },
+ "agentscope-ai/QwenPaw": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "agentscope-ai/QwenPaw",
+  "parent": null
+ },
+ "agentscope-ai/agentscope": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "agentscope-ai/agentscope",
+  "parent": null
+ },
+ "agentskills/agentskills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "agentskills/agentskills",
+  "parent": null
+ },
+ "agentsmd/agents.md": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "agentsmd/agents.md",
+  "parent": null
+ },
+ "agiresearch/A-mem": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "agiresearch/A-mem",
+  "parent": null
+ },
+ "agno-agi/agno": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "agno-agi/agno",
+  "parent": null
+ },
+ "ahujasid/mcp-for-blender": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ahujasid/mcp-for-blender",
+  "parent": null
+ },
+ "ai-boost/awesome-harness-engineering": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ai-boost/awesome-harness-engineering",
+  "parent": null
+ },
+ "aiming-lab/AutoResearchClaw": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "aiming-lab/AutoResearchClaw",
+  "parent": null
+ },
+ "aiwaves-cn/agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "aiwaves-cn/agents",
+  "parent": null
+ },
+ "alchaincyf/darwin-skill": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "alchaincyf/darwin-skill",
+  "parent": null
+ },
+ "algorithmicsuperintelligence/openevolve": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "algorithmicsuperintelligence/openevolve",
+  "parent": null
+ },
+ "aliasrobotics/cai": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "aliasrobotics/cai",
+  "parent": null
+ },
+ "alibaba/page-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "alibaba/page-agent",
+  "parent": null
+ },
+ "andyrewlee/awesome-agent-orchestrators": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "andyrewlee/awesome-agent-orchestrators",
+  "parent": null
+ },
+ "anomalyco/opencode": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anomalyco/opencode",
+  "parent": null
+ },
+ "anthropics/claude-agent-sdk-python": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/claude-agent-sdk-python",
+  "parent": null
+ },
+ "anthropics/claude-agent-sdk-typescript": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/claude-agent-sdk-typescript",
+  "parent": null
+ },
+ "anthropics/claude-code": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/claude-code",
+  "parent": null
+ },
+ "anthropics/claude-cookbooks": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/claude-cookbooks",
+  "parent": null
+ },
+ "anthropics/claude-plugins-official": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/claude-plugins-official",
+  "parent": null
+ },
+ "anthropics/claude-quickstarts": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/claude-quickstarts",
+  "parent": null
+ },
+ "anthropics/courses": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/courses",
+  "parent": null
+ },
+ "anthropics/sandbox-runtime": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/sandbox-runtime",
+  "parent": null
+ },
+ "anthropics/skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "anthropics/skills",
+  "parent": null
+ },
+ "apify/apify-mcp-server": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "apify/apify-mcp-server",
+  "parent": null
+ },
+ "apple/container": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "apple/container",
+  "parent": null
+ },
+ "areal-project/AReaL": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "areal-project/AReaL",
+  "parent": null
+ },
+ "asgeirtj/system_prompts_leaks": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "asgeirtj/system_prompts_leaks",
+  "parent": null
+ },
+ "ashishpatel26/500-AI-Agents-Projects": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ashishpatel26/500-AI-Agents-Projects",
+  "parent": null
+ },
+ "assafelovic/gpt-researcher": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "assafelovic/gpt-researcher",
+  "parent": null
+ },
+ "aws/amazon-q-developer-cli": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "aws/amazon-q-developer-cli",
+  "parent": null
+ },
+ "awslabs/mcp": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "awslabs/mcp",
+  "parent": null
+ },
+ "basicmachines-co/basic-memory": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "basicmachines-co/basic-memory",
+  "parent": null
+ },
+ "bmad-code-org/BMAD-METHOD": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "bmad-code-org/BMAD-METHOD",
+  "parent": null
+ },
+ "bojieli/ai-agent-book": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "bojieli/ai-agent-book",
+  "parent": null
+ },
+ "boxlite-ai/boxlite": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "boxlite-ai/boxlite",
+  "parent": null
+ },
+ "bradAGI/awesome-cli-coding-agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "bradAGI/awesome-cli-coding-agents",
+  "parent": null
+ },
+ "browser-use/browser-use": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "browser-use/browser-use",
+  "parent": null
+ },
+ "browser-use/jev-ultrafast": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "browser-use/jev-ultrafast",
+  "parent": null
+ },
+ "browserbase/stagehand": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "browserbase/stagehand",
+  "parent": null
+ },
+ "browseros-ai/BrowserOS": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "browseros-ai/BrowserOS",
+  "parent": null
+ },
+ "bytedance/UI-TARS": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "bytedance/UI-TARS",
+  "parent": null
+ },
+ "bytedance/UI-TARS-desktop": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "bytedance/UI-TARS-desktop",
+  "parent": null
+ },
+ "bytedance/deer-flow": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "bytedance/deer-flow",
+  "parent": null
+ },
+ "bytedance/trae-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "bytedance/trae-agent",
+  "parent": null
+ },
+ "camel-ai/camel": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "camel-ai/camel",
+  "parent": null
+ },
+ "camel-ai/owl": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "camel-ai/owl",
+  "parent": null
+ },
+ "ccusage/ccusage": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ccusage/ccusage",
+  "parent": null
+ },
+ "centerforaisafety/HarmBench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "centerforaisafety/HarmBench",
+  "parent": null
+ },
+ "charmbracelet/crush": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "charmbracelet/crush",
+  "parent": null
+ },
+ "cisco-ai-defense/mcp-scanner": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "cisco-ai-defense/mcp-scanner",
+  "parent": null
+ },
+ "cisco-ai-defense/skill-scanner": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "cisco-ai-defense/skill-scanner",
+  "parent": null
+ },
+ "cline/cline": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "cline/cline",
+  "parent": null
+ },
+ "cloudflare/agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "cloudflare/agents",
+  "parent": null
+ },
+ "cloudflare/sandbox-sdk": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "cloudflare/sandbox-sdk",
+  "parent": null
+ },
+ "code-yeongyu/oh-my-openagent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "code-yeongyu/oh-my-openagent",
+  "parent": null
+ },
+ "coder/coder": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "coder/coder",
+  "parent": null
+ },
+ "codewhale-hq/Codewhale": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "codewhale-hq/Codewhale",
+  "parent": null
+ },
+ "colbymchenry/codegraph": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "colbymchenry/codegraph",
+  "parent": null
+ },
+ "coleam00/context-engineering-intro": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "coleam00/context-engineering-intro",
+  "parent": null
+ },
+ "comet-ml/opik": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "comet-ml/opik",
+  "parent": null
+ },
+ "confident-ai/deepeval": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "confident-ai/deepeval",
+  "parent": null
+ },
+ "confident-ai/deepteam": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "confident-ai/deepteam",
+  "parent": null
+ },
+ "containers/bubblewrap": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "containers/bubblewrap",
+  "parent": null
+ },
+ "continuedev/continue": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "continuedev/continue",
+  "parent": null
+ },
+ "crewAIInc/crewAI": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "crewAIInc/crewAI",
+  "parent": null
+ },
+ "czl9707/build-your-own-openclaw": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "czl9707/build-your-own-openclaw",
+  "parent": null
+ },
+ "czlonkowski/n8n-mcp": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "czlonkowski/n8n-mcp",
+  "parent": null
+ },
+ "dagger/container-use": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "dagger/container-use",
+  "parent": null
+ },
+ "data-privacy-stack/presidio": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "data-privacy-stack/presidio",
+  "parent": null
+ },
+ "datawhalechina/hello-agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "datawhalechina/hello-agents",
+  "parent": null
+ },
+ "daytonaio/daytona": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "daytonaio/daytona",
+  "parent": null
+ },
+ "decodingai-magazine/building-a-coding-agent-from-scratch-course": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "itsdecodingai/building-a-coding-agent-from-scratch-course",
+  "parent": null
+ },
+ "deepseek-ai/awesome-deepseek-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "deepseek-ai/awesome-deepseek-agent",
+  "parent": null
+ },
+ "deepseek-ai/deepseek-harness": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "deepseek-ai/deepseek-harness",
+  "parent": null
+ },
+ "deepset-ai/haystack": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "deepset-ai/haystack",
+  "parent": null
+ },
+ "disler/claude-code-hooks-multi-agent-observability": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "disler/claude-code-hooks-multi-agent-observability",
+  "parent": null
+ },
+ "docker/mcp-gateway": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "docker/mcp-gateway",
+  "parent": null
+ },
+ "droidrun/mobilerun": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "droidrun/mobilerun",
+  "parent": null
+ },
+ "dzhng/deep-research": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "dzhng/deep-research",
+  "parent": null
+ },
+ "e2b-dev/E2B": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "e2b-dev/E2B",
+  "parent": null
+ },
+ "e2b-dev/awesome-ai-agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "e2b-dev/awesome-ai-agents",
+  "parent": null
+ },
+ "e2b-dev/code-interpreter": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "e2b-dev/code-interpreter",
+  "parent": null
+ },
+ "e2b-dev/desktop": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "e2b-dev/desktop",
+  "parent": null
+ },
+ "e2b-dev/fragments": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "e2b-dev/fragments",
+  "parent": null
+ },
+ "earendil-works/pi": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "earendil-works/pi",
+  "parent": null
+ },
+ "ed-donner/agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ed-donner/agents",
+  "parent": null
+ },
+ "elder-plinius/T3MP3ST": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "elder-plinius/T3MP3ST",
+  "parent": null
+ },
+ "ethz-spylab/agentdojo": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ethz-spylab/agentdojo",
+  "parent": null
+ },
+ "evidentlyai/evidently": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "evidentlyai/evidently",
+  "parent": null
+ },
+ "facebookresearch/HyperAgents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "facebookresearch/HyperAgents",
+  "parent": null
+ },
+ "farion1231/cc-switch": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "farion1231/cc-switch",
+  "parent": null
+ },
+ "firecracker-microvm/firecracker": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "firecracker-microvm/firecracker",
+  "parent": null
+ },
+ "firecrawl/firecrawl": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "firecrawl/firecrawl",
+  "parent": null
+ },
+ "garrytan/gstack": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "garrytan/gstack",
+  "parent": null
+ },
+ "gastownhall/beads": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "gastownhall/beads",
+  "parent": null
+ },
+ "gastownhall/gastown": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "gastownhall/gastown",
+  "parent": null
+ },
+ "gepa-ai/gepa": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "gepa-ai/gepa",
+  "parent": null
+ },
+ "getagentseal/codeburn": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "getagentseal/codeburn",
+  "parent": null
+ },
+ "getzep/graphiti": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "getzep/graphiti",
+  "parent": null
+ },
+ "getzep/zep": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "getzep/zep",
+  "parent": null
+ },
+ "ghuntley/how-to-build-a-coding-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ghuntley/how-to-build-a-coding-agent",
+  "parent": null
+ },
+ "github/copilot-cli": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "github/copilot-cli",
+  "parent": null
+ },
+ "github/github-mcp-server": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "github/github-mcp-server",
+  "parent": null
+ },
+ "github/spec-kit": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "github/spec-kit",
+  "parent": null
+ },
+ "gomesgroup/coscientist": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "gomesgroup/coscientist",
+  "parent": null
+ },
+ "google-deepmind/opro": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google-deepmind/opro",
+  "parent": null
+ },
+ "google-gemini/computer-use-preview": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google-gemini/computer-use-preview",
+  "parent": null
+ },
+ "google-gemini/gemini-cli": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google-gemini/gemini-cli",
+  "parent": null
+ },
+ "google-gemini/gemini-fullstack-langgraph-quickstart": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google-gemini/gemini-fullstack-langgraph-quickstart",
+  "parent": null
+ },
+ "google-research/android_world": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google-research/android_world",
+  "parent": null
+ },
+ "google-research/camel-prompt-injection": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google-research/camel-prompt-injection",
+  "parent": null
+ },
+ "google-research/paper-orchestra": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google-research/paper-orchestra",
+  "parent": null
+ },
+ "google/adk-python": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google/adk-python",
+  "parent": null
+ },
+ "google/nsjail": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "google/nsjail",
+  "parent": null
+ },
+ "googleapis/mcp-toolbox": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "googleapis/mcp-toolbox",
+  "parent": null
+ },
+ "guardrails-ai/guardrails": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "guardrails-ai/guardrails",
+  "parent": null
+ },
+ "gvisor/gvisor": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "gvisor/gvisor",
+  "parent": null
+ },
+ "h4ckf0r0day/obscura": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "h4ckf0r0day/obscura",
+  "parent": null
+ },
+ "harbor-framework/harbor": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "harbor-framework/harbor",
+  "parent": null
+ },
+ "harbor-framework/terminal-bench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "harbor-framework/terminal-bench",
+  "parent": null
+ },
+ "harbor-framework/terminal-bench-1": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "harbor-framework/terminal-bench-1",
+  "parent": null
+ },
+ "harbor-framework/terminal-bench-2": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "harbor-framework/terminal-bench-2",
+  "parent": null
+ },
+ "headroomlabs-ai/headroom": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "headroomlabs-ai/headroom",
+  "parent": null
+ },
+ "heilcheng/awesome-agent-skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "heilcheng/awesome-agent-skills",
+  "parent": null
+ },
+ "herdrdev/herdr": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "herdrdev/herdr",
+  "parent": null
+ },
+ "hesreallyhim/awesome-claude-code": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "hesreallyhim/awesome-claude-code",
+  "parent": null
+ },
+ "huggingface/agents-course": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "huggingface/agents-course",
+  "parent": null
+ },
+ "huggingface/smolagents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "huggingface/smolagents",
+  "parent": null
+ },
+ "humanlayer/12-factor-agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "humanlayer/12-factor-agents",
+  "parent": null
+ },
+ "humanlayer/advanced-context-engineering-for-coding-agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "humanlayer/advanced-context-engineering-for-coding-agents",
+  "parent": null
+ },
+ "ifixai-ai/iFixAi": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ifixai-ai/iFixAi",
+  "parent": null
+ },
+ "invariantlabs-ai/invariant": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "invariantlabs-ai/invariant",
+  "parent": null
+ },
+ "itayinbarr/little-coder": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "itayinbarr/little-coder",
+  "parent": null
+ },
+ "jackwener/OpenCLI": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "jackwener/OpenCLI",
+  "parent": null
+ },
+ "jennyzzt/dgm": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "jennyzzt/dgm",
+  "parent": null
+ },
+ "karpathy/autoresearch": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "karpathy/autoresearch",
+  "parent": null
+ },
+ "karpathy/llm-council": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "karpathy/llm-council",
+  "parent": null
+ },
+ "katanemo/plano": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "katanemo/plano",
+  "parent": null
+ },
+ "kayba-ai/agentic-context-engine": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "kayba-ai/agentic-context-engine",
+  "parent": null
+ },
+ "keirp/automatic_prompt_engineer": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "keirp/automatic_prompt_engineer",
+  "parent": null
+ },
+ "khoj-ai/khoj": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "khoj-ai/khoj",
+  "parent": null
+ },
+ "kubernetes-sigs/agent-sandbox": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "kubernetes-sigs/agent-sandbox",
+  "parent": null
+ },
+ "kyegomez/swarms": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "kyegomez/swarms",
+  "parent": null
+ },
+ "kyrolabs/awesome-agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "kyrolabs/awesome-agents",
+  "parent": null
+ },
+ "kyrolabs/awesome-langchain": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "kyrolabs/awesome-langchain",
+  "parent": null
+ },
+ "langchain-ai/deepagents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langchain-ai/deepagents",
+  "parent": null
+ },
+ "langchain-ai/langchain": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langchain-ai/langchain",
+  "parent": null
+ },
+ "langchain-ai/langgraph": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langchain-ai/langgraph",
+  "parent": null
+ },
+ "langchain-ai/langgraph-swarm-py": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langchain-ai/langgraph-swarm-py",
+  "parent": null
+ },
+ "langchain-ai/langmem": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langchain-ai/langmem",
+  "parent": null
+ },
+ "langchain-ai/open_deep_research": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langchain-ai/open_deep_research",
+  "parent": null
+ },
+ "langflow-ai/langflow": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langflow-ai/langflow",
+  "parent": null
+ },
+ "langfuse/langfuse": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langfuse/langfuse",
+  "parent": null
+ },
+ "langgenius/dify": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langgenius/dify",
+  "parent": null
+ },
+ "langwatch/langwatch": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "langwatch/langwatch",
+  "parent": null
+ },
+ "lastmile-ai/mcp-agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "lastmile-ai/mcp-agent",
+  "parent": null
+ },
+ "letta-ai/letta": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "letta-ai/letta",
+  "parent": null
+ },
+ "lfnovo/open-notebook": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "lfnovo/open-notebook",
+  "parent": null
+ },
+ "lightpanda-io/browser": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "lightpanda-io/browser",
+  "parent": null
+ },
+ "linshenkx/prompt-optimizer": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "linshenkx/prompt-optimizer",
+  "parent": null
+ },
+ "llm-as-a-verifier/llm-as-a-verifier": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "llm-as-a-verifier/llm-as-a-verifier",
+  "parent": null
+ },
+ "llm-attacks/llm-attacks": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "llm-attacks/llm-attacks",
+  "parent": null
+ },
+ "lmnr-ai/lmnr": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "lmnr-ai/lmnr",
+  "parent": null
+ },
+ "luongnv89/claude-howto": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "luongnv89/claude-howto",
+  "parent": null
+ },
+ "mark3labs/mcp-go": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mark3labs/mcp-go",
+  "parent": null
+ },
+ "mastra-ai/mastra": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mastra-ai/mastra",
+  "parent": null
+ },
+ "mattpocock/sandcastle": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mattpocock/sandcastle",
+  "parent": null
+ },
+ "mattpocock/skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mattpocock/skills",
+  "parent": null
+ },
+ "maximhq/bifrost": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "maximhq/bifrost",
+  "parent": null
+ },
+ "mcp-use/mcp-use": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mcp-use/mcp-use",
+  "parent": null
+ },
+ "mem0ai/mem0": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mem0ai/mem0",
+  "parent": null
+ },
+ "memodb-io/memobase": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "memodb-io/memobase",
+  "parent": null
+ },
+ "meridianlabs-ai/inspect_petri": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "meridianlabs-ai/inspect_petri",
+  "parent": null
+ },
+ "meta-llama/PurpleLlama": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "meta-llama/PurpleLlama",
+  "parent": null
+ },
+ "microsoft/OmniParser": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/OmniParser",
+  "parent": null
+ },
+ "microsoft/PromptWizard": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/PromptWizard",
+  "parent": null
+ },
+ "microsoft/PyRIT": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/PyRIT",
+  "parent": null
+ },
+ "microsoft/RD-Agent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/RD-Agent",
+  "parent": null
+ },
+ "microsoft/SkillOpt": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/SkillOpt",
+  "parent": null
+ },
+ "microsoft/TokenEconomizer": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/TokenEconomizer",
+  "parent": null
+ },
+ "microsoft/Trace": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/Trace",
+  "parent": null
+ },
+ "microsoft/UFO": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/UFO",
+  "parent": null
+ },
+ "microsoft/WindowsAgentArena": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/WindowsAgentArena",
+  "parent": null
+ },
+ "microsoft/agent-governance-toolkit": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/agent-governance-toolkit",
+  "parent": null
+ },
+ "microsoft/agent-lightning": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/agent-lightning",
+  "parent": null
+ },
+ "microsoft/ai-agents-for-beginners": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/ai-agents-for-beginners",
+  "parent": null
+ },
+ "microsoft/apm": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/apm",
+  "parent": null
+ },
+ "microsoft/autogen": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/autogen",
+  "parent": null
+ },
+ "microsoft/graphrag": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/graphrag",
+  "parent": null
+ },
+ "microsoft/magentic-ui": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/magentic-ui",
+  "parent": null
+ },
+ "microsoft/mcp-for-beginners": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/mcp-for-beginners",
+  "parent": null
+ },
+ "microsoft/playwright-mcp": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/playwright-mcp",
+  "parent": null
+ },
+ "microsoft/semantic-kernel": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "microsoft/semantic-kernel",
+  "parent": null
+ },
+ "mistralai/mistral-vibe": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mistralai/mistral-vibe",
+  "parent": null
+ },
+ "mlflow/mlflow": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mlflow/mlflow",
+  "parent": null
+ },
+ "modal-labs/modal-client": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modal-labs/modal-client",
+  "parent": null
+ },
+ "modelcontextprotocol/ext-apps": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/ext-apps",
+  "parent": null
+ },
+ "modelcontextprotocol/go-sdk": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/go-sdk",
+  "parent": null
+ },
+ "modelcontextprotocol/inspector": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/inspector",
+  "parent": null
+ },
+ "modelcontextprotocol/modelcontextprotocol": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/modelcontextprotocol",
+  "parent": null
+ },
+ "modelcontextprotocol/python-sdk": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/python-sdk",
+  "parent": null
+ },
+ "modelcontextprotocol/registry": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/registry",
+  "parent": null
+ },
+ "modelcontextprotocol/rust-sdk": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/rust-sdk",
+  "parent": null
+ },
+ "modelcontextprotocol/servers": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/servers",
+  "parent": null
+ },
+ "modelcontextprotocol/typescript-sdk": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "modelcontextprotocol/typescript-sdk",
+  "parent": null
+ },
+ "mrexodia/ida-pro-mcp": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "mrexodia/ida-pro-mcp",
+  "parent": null
+ },
+ "msitarzewski/agency-agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "msitarzewski/agency-agents",
+  "parent": null
+ },
+ "multica-ai/andrej-karpathy-skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "multica-ai/andrej-karpathy-skills",
+  "parent": null
+ },
+ "multica-ai/multica": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "multica-ai/multica",
+  "parent": null
+ },
+ "muratcankoylan/Agent-Skills-for-Context-Engineering": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+  "parent": null
+ },
+ "nanobrowser/nanobrowser": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "nanobrowser/nanobrowser",
+  "parent": null
+ },
+ "nanocoai/nanoclaw": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "nanocoai/nanoclaw",
+  "parent": null
+ },
+ "nibzard/awesome-agentic-patterns": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "nibzard/awesome-agentic-patterns",
+  "parent": null
+ },
+ "noahshinn/reflexion": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "noahshinn/reflexion",
+  "parent": null
+ },
+ "nolabs-ai/nono": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "nolabs-ai/nono",
+  "parent": null
+ },
+ "obra/superpowers": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "obra/superpowers",
+  "parent": null
+ },
+ "openai/codex": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/codex",
+  "parent": null
+ },
+ "openai/evals": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/evals",
+  "parent": null
+ },
+ "openai/frontier-evals": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/frontier-evals",
+  "parent": null
+ },
+ "openai/mle-bench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/mle-bench",
+  "parent": null
+ },
+ "openai/openai-agents-js": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/openai-agents-js",
+  "parent": null
+ },
+ "openai/openai-agents-python": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/openai-agents-python",
+  "parent": null
+ },
+ "openai/openai-cookbook": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/openai-cookbook",
+  "parent": null
+ },
+ "openai/openai-cua-sample-app": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/openai-cua-sample-app",
+  "parent": null
+ },
+ "openai/openai-guardrails-python": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/openai-guardrails-python",
+  "parent": null
+ },
+ "openai/simple-evals": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/simple-evals",
+  "parent": null
+ },
+ "openai/skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/skills",
+  "parent": null
+ },
+ "openai/swarm": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/swarm",
+  "parent": null
+ },
+ "openai/symphony": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openai/symphony",
+  "parent": null
+ },
+ "openclaw/openclaw": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openclaw/openclaw",
+  "parent": null
+ },
+ "openinterpreter/openinterpreter": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openinterpreter/openinterpreter",
+  "parent": null
+ },
+ "openlit/openlit": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "openlit/openlit",
+  "parent": null
+ },
+ "opensandbox-group/OpenSandbox": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "opensandbox-group/OpenSandbox",
+  "parent": null
+ },
+ "oraios/serena": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "oraios/serena",
+  "parent": null
+ },
+ "paperclipai/paperclip": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "paperclipai/paperclip",
+  "parent": null
+ },
+ "pguso/ai-agents-from-scratch": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "pguso/ai-agents-from-scratch",
+  "parent": null
+ },
+ "plandex-ai/plandex": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "plandex-ai/plandex",
+  "parent": null
+ },
+ "plastic-labs/honcho": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "plastic-labs/honcho",
+  "parent": null
+ },
+ "promptfoo/promptfoo": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "promptfoo/promptfoo",
+  "parent": null
+ },
+ "protectai/llm-guard": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "protectai/llm-guard",
+  "parent": null
+ },
+ "protectai/rebuff": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "protectai/rebuff",
+  "parent": null
+ },
+ "punkpeye/awesome-mcp-clients": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "punkpeye/awesome-mcp-clients",
+  "parent": null
+ },
+ "punkpeye/awesome-mcp-servers": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "punkpeye/awesome-mcp-servers",
+  "parent": null
+ },
+ "pydantic/logfire": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "pydantic/logfire",
+  "parent": null
+ },
+ "pydantic/monty": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "pydantic/monty",
+  "parent": null
+ },
+ "pydantic/pydantic-ai": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "pydantic/pydantic-ai",
+  "parent": null
+ },
+ "raga-ai-hub/RagaAI-Catalyst": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "raga-ai-hub/RagaAI-Catalyst",
+  "parent": null
+ },
+ "reworkd/AgentGPT": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "reworkd/AgentGPT",
+  "parent": null
+ },
+ "rllm-org/rllm": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "rllm-org/rllm",
+  "parent": null
+ },
+ "rohitg00/agentmemory": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "rohitg00/agentmemory",
+  "parent": null
+ },
+ "rtk-ai/rtk": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "rtk-ai/rtk",
+  "parent": null
+ },
+ "run-llama/llama_index": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "run-llama/llama_index",
+  "parent": null
+ },
+ "ruvnet/ruflo": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ruvnet/ruflo",
+  "parent": null
+ },
+ "safety-research/bloom": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "safety-research/bloom",
+  "parent": null
+ },
+ "scaleapi/SWE-bench_Pro-os": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "scaleapi/SWE-bench_Pro-os",
+  "parent": null
+ },
+ "shanraisshan/claude-code-best-practice": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "shanraisshan/claude-code-best-practice",
+  "parent": null
+ },
+ "shareAI-lab/claw0": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "shareAI-lab/claw0",
+  "parent": null
+ },
+ "shareAI-lab/learn-claude-code": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "shareAI-lab/learn-claude-code",
+  "parent": null
+ },
+ "sierra-research/tau-bench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "sierra-research/tau-bench",
+  "parent": null
+ },
+ "sierra-research/tau2-bench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "sierra-research/tau2-bench",
+  "parent": null
+ },
+ "simonw/claude-code-transcripts": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "simonw/claude-code-transcripts",
+  "parent": null
+ },
+ "simular-ai/Agent-S": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "simular-ai/Agent-S",
+  "parent": null
+ },
+ "sipeed/picoclaw": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "sipeed/picoclaw",
+  "parent": null
+ },
+ "slopus/happy": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "slopus/happy",
+  "parent": null
+ },
+ "smol-machines/smolvm": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "smol-machines/smolvm",
+  "parent": null
+ },
+ "smtg-ai/claude-squad": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "smtg-ai/claude-squad",
+  "parent": null
+ },
+ "snap-research/locomo": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "snap-research/locomo",
+  "parent": null
+ },
+ "snap-stanford/Biomni": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "snap-stanford/Biomni",
+  "parent": null
+ },
+ "snarktank/ralph": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "snarktank/ralph",
+  "parent": null
+ },
+ "snyk/agent-scan": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "snyk/agent-scan",
+  "parent": null
+ },
+ "stablyai/orca": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "stablyai/orca",
+  "parent": null
+ },
+ "stanford-iris-lab/meta-harness": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "stanford-iris-lab/meta-harness",
+  "parent": null
+ },
+ "stanford-oval/storm": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "stanford-oval/storm",
+  "parent": null
+ },
+ "stanfordnlp/dspy": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "stanfordnlp/dspy",
+  "parent": null
+ },
+ "steel-dev/awesome-web-agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "steel-dev/awesome-web-agents",
+  "parent": null
+ },
+ "steel-dev/steel-browser": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "steel-dev/steel-browser",
+  "parent": null
+ },
+ "strands-agents/harness-sdk": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "strands-agents/harness-sdk",
+  "parent": null
+ },
+ "superagent-ai/superagent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "superagent-ai/superagent",
+  "parent": null
+ },
+ "supermemoryai/supermemory": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "supermemoryai/supermemory",
+  "parent": null
+ },
+ "superradcompany/microsandbox": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "superradcompany/microsandbox",
+  "parent": null
+ },
+ "tensorzero/tensorzero": {
+  "isArchived": true,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "tensorzero/tensorzero",
+  "parent": null
+ },
+ "thedotmack/claude-mem": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "thedotmack/claude-mem",
+  "parent": null
+ },
+ "thu-coai/Agent-SafetyBench": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "thu-coai/Agent-SafetyBench",
+  "parent": null
+ },
+ "tinyhumansai/openhuman": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "tinyhumansai/openhuman",
+  "parent": null
+ },
+ "tobi/qmd": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "tobi/qmd",
+  "parent": null
+ },
+ "topoteretes/cognee": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "topoteretes/cognee",
+  "parent": null
+ },
+ "traceloop/openllmetry": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "traceloop/openllmetry",
+  "parent": null
+ },
+ "travisvn/awesome-claude-skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "travisvn/awesome-claude-skills",
+  "parent": null
+ },
+ "truera/trulens": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "truera/trulens",
+  "parent": null
+ },
+ "trycua/cua": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "trycua/cua",
+  "parent": null
+ },
+ "ultraworkers/claw-code": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ultraworkers/claw-code",
+  "parent": null
+ },
+ "unclecode/crawl4ai": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "unclecode/crawl4ai",
+  "parent": null
+ },
+ "upstash/context7": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "upstash/context7",
+  "parent": null
+ },
+ "ur-whitelab/chemcrow-public": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "ur-whitelab/chemcrow-public",
+  "parent": null
+ },
+ "usestrix/strix": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "usestrix/strix",
+  "parent": null
+ },
+ "vectorize-io/hindsight": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "vectorize-io/hindsight",
+  "parent": null
+ },
+ "vercel-labs/agent-browser": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "vercel-labs/agent-browser",
+  "parent": null
+ },
+ "vercel-labs/agent-desktop": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "vercel-labs/agent-desktop",
+  "parent": null
+ },
+ "vercel-labs/just-bash": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "vercel-labs/just-bash",
+  "parent": null
+ },
+ "vercel-labs/skills": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "vercel-labs/skills",
+  "parent": null
+ },
+ "vercel/ai": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "vercel/ai",
+  "parent": null
+ },
+ "vibrantlabsai/ragas": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "vibrantlabsai/ragas",
+  "parent": null
+ },
+ "vndee/llm-sandbox": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "vndee/llm-sandbox",
+  "parent": null
+ },
+ "volcengine/OpenViking": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "volcengine/OpenViking",
+  "parent": null
+ },
+ "walkinglabs/awesome-harness-engineering": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "walkinglabs/awesome-harness-engineering",
+  "parent": null
+ },
+ "walkinglabs/learn-harness-engineering": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "walkinglabs/learn-harness-engineering",
+  "parent": null
+ },
+ "wandb/weave": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "wandb/weave",
+  "parent": null
+ },
+ "wanshuiyin/Auto-claude-code-research-in-sleep": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "wanshuiyin/Auto-claude-code-research-in-sleep",
+  "parent": null
+ },
+ "warpdotdev/warp": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "warpdotdev/warp",
+  "parent": null
+ },
+ "web-arena-x/visualwebarena": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "web-arena-x/visualwebarena",
+  "parent": null
+ },
+ "web-arena-x/webarena": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "web-arena-x/webarena",
+  "parent": null
+ },
+ "web-infra-dev/midscene": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "web-infra-dev/midscene",
+  "parent": null
+ },
+ "wquguru/harness-books": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "wquguru/harness-books",
+  "parent": null
+ },
+ "wshobson/agents": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "wshobson/agents",
+  "parent": null
+ },
+ "x1xhlol/system-prompts-and-models-of-ai-tools": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "parent": null
+ },
+ "xai-org/grok-build": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "xai-org/grok-build",
+  "parent": null
+ },
+ "xiaowu0162/LongMemEval": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "xiaowu0162/LongMemEval",
+  "parent": null
+ },
+ "xlang-ai/OSWorld": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "xlang-ai/OSWorld",
+  "parent": null
+ },
+ "yamadashy/repomix": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "yamadashy/repomix",
+  "parent": null
+ },
+ "yoheinakajima/babyagi": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "yoheinakajima/babyagi",
+  "parent": null
+ },
+ "yzfly/Awesome-MCP-ZH": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "yzfly/Awesome-MCP-ZH",
+  "parent": null
+ },
+ "zai-org/Open-AutoGLM": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "zai-org/Open-AutoGLM",
+  "parent": null
+ },
+ "zeroclaw-labs/zeroclaw": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "zeroclaw-labs/zeroclaw",
+  "parent": null
+ },
+ "zhayujie/CowAgent": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "zhayujie/CowAgent",
+  "parent": null
+ },
+ "zou-group/textgrad": {
+  "isArchived": false,
+  "isFork": false,
+  "isMirror": false,
+  "nameWithOwner": "zou-group/textgrad",
+  "parent": null
+ }
+}
